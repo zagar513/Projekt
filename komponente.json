@@ -1,0 +1,63 @@
+{   
+    "owner": {
+        "nameRac": "Računalo 1",
+        "name": "Josip Jurčević"
+    },
+    "komponente1": [
+        {
+            "id": 1,
+            "type": "CPU",
+            "name": "Intel i5-12400F",
+            "manufacturer": "Intel",
+            "specs": "6 cores, 4.4GHz",
+            "price": 180
+        },
+        {
+            "id": 2,
+            "type": "Matična ploča",
+            "name": "Gigabyte B760M DS3H Gen5",
+            "manufacturer": "Gigabyte",
+            "specs": "DDR5, Micro ATX",
+            "price": 132
+        },
+        {
+            "id": 3,
+            "type": "GPU",
+            "name": "Gigabyte GeForce RTX5060 Windforce OC",
+            "manufacturer": "Gigabyte",
+            "specs": "8GB GDDR7",
+            "price": 385
+        },
+        {
+            "id": 4,
+            "type": "RAM",
+            "name": "Kingston Fury Beast Black RGB Expo",
+            "manufacturer": "Kingston Fury",
+            "specs": "32GB (2x16GB), DDR5 6000MHz, CL30",
+            "price": 499
+        },
+        {
+            "id": 5,
+            "type": "SSD",
+            "name": "Crucial T700 Heatsink",
+            "manufacturer": "Crucial",
+            "specs": "1TB, M.2 NVMe PCIe Gen5",
+            "price": 199
+        },
+        {
+            "id": 6,
+            "type": "Napajanje",
+            "name": "Gigabyte P650G",
+            "manufacturer": "Gigabyte",
+            "specs": "650W, 80+ Gold, ATX",
+            "price": 72
+        },
+        {
+            "id": 7,
+            "type": "Ventilatori",
+            "name": "Be quiet! Silent Wings Pro 4",
+            "manufacturer": "Be quiet!",
+            "specs": "120mm, PWM, x4",
+            "price": 39
+        }]
+}
